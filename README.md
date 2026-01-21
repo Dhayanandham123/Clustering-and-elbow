@@ -1,5 +1,5 @@
 # Clustering-and-elbow
-# Clustering Analysis using K-Means and Agglomerative Clustering
+# Clustering Analysis using K-Means Clustering
 
 ## 📌 Project Overview
 This project focuses on **unsupervised learning** techniques to discover hidden patterns in data using **clustering algorithms**. The main objective is to group similar data points without using labeled outputs and to determine the optimal number of clusters using the **Elbow Method**.
@@ -10,9 +10,6 @@ This project focuses on **unsupervised learning** techniques to discover hidden 
 
 ### 1. K-Means Clustering
 K-Means partitions the dataset into *K* clusters by minimizing the distance between data points and their respective cluster centroids. The algorithm iteratively updates centroids until convergence.
-
-### 2. Agglomerative (Hierarchical) Clustering
-Agglomerative clustering is a bottom-up hierarchical approach where each data point starts as its own cluster and clusters are merged based on distance and linkage criteria.
 
 ---
 
